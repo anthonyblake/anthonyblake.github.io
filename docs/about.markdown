@@ -19,7 +19,7 @@ My first blog post was in 2010, to make notes for my own reference when creating
 Currently, I write about anything that interests me, from Dynamics 365 Finance updates to Azure DevOps CI/CD how-to guides.
 
 You can find me on socials at:
-- [X: Twitter][https://x.com/anthonyblakedev]
+- [X (Twitter)](https://x.com/anthonyblakedev)
 - [Github](https://github.com/anthonyblake)
 - [Linkedin](https://www.linkedin.com/in/anthonyblakedynamics/) 
 
