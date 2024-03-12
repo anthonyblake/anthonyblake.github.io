@@ -23,7 +23,10 @@ email: anthonyblakedev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website & blog of Anthony Blake, featuring pages & blog posts
   focused broadly on Software Development and Technology, with focus on 
-  Dynamics 365 Integrations, Azure, DevOps, CI/CD, and APIs.
+  Dynamics 365 Integrations, Azure, DevOps, CI/CD, and APIs. Note: All posts,
+  projects, and suggestions on this site are to be considered untested. Use
+  posted solutions and suggestions with appropriate levels of testing, and 
+  at your own risk.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://anthonyblake.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: anthonyblakedev
