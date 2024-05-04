@@ -28,4 +28,4 @@ The workspace comes with a D365 environment which contains a number of environme
 
 Set the local environment variables to the configuration for your D365 environment, run the Authentication step to obtain a bearer token, and test away.
 
-If anyone is interested in collaborating, please reach out via LinkedIn, Twitter, or Email. If not familair with Postman's collaboration tools, workspaces & collections can be forked and merged in a similar way to git, so its relatively easy with a little reading and trying it out.
+If anyone is interested in contributing, please reach out via LinkedIn, Twitter, or Email. If not familair with Postman's collaboration tools, workspaces & collections can be forked and merged in a similar way to git, so its relatively easy with a little reading and trying it out.
