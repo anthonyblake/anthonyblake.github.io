@@ -39,8 +39,11 @@ linkedin_username: anthonyblakedynamics
 
 # Build settings
 theme: minima
+#remote_theme: jekyll/minima
+
 plugins:
   - jekyll-feed
+#  - jekyll-remote-theme
 
 # Google Analytics
 google_analytics: G-WDNGNSHVR7
