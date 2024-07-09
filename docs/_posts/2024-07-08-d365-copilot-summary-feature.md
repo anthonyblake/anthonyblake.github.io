@@ -6,6 +6,8 @@ categories: d365 finance copilot
 tags: Copilot API OData Axapta Integration Dynaimcs AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO SysAdmin D365 AAD Azure Active Directory DMF Postman
 ---
 
+![On by Default D365 Feature Management](/assets/images/2024-07-08/3.png)
+
 The recent Platform Updates to Dynamics 365 Finance, SCM, and HR, have introduced a number of new Copilot features, which are Enabled by default.
 
 This is an exciting time for Microsoft professionals with tightly integrated Copilot features now coming thick and fast, embeded in the application and offering a functionality and style which we haven't seen anywhere, in any ERP, before. 
