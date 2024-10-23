@@ -14,7 +14,7 @@ Today I'm sharing a fix I recently applied to a tier 2 sandbox Dynamics 365 F&SC
 
 ![Workflow Stopped Error](/assets/images/2024-10-15/1.png)
 
-Users reported all workflows, no matter what the record type, ending in the same error:
+Users reported all workflows, no matter what the record type, ending while reporting the same error:
 
 `Stopped (error) x++ Exception: cannot create a record in Alerts - Event inbox data (EventInboxData). Inbox ID: -some-record-id- . The record already exists`
 
@@ -27,7 +27,7 @@ The issue was reported on a tier 2 environment, if you are also running and look
 
 If you are fixing this on a cloud hosted dev environment, open up SSMS when connected to the VM by remote desktop, and connect to the local database.
 
-Running the following query will give you a list of the event inbox rows which are causing duplication issues. Substitute the record ID with the record ID 1 digit less than the record ID in the workflow error above.
+Running the following query will give you a list of the event inbox rows which are causing duplication issues. Substitute the record ID with the record ID 1 digit less than the record ID in the workflow error above (or just adjust this query to be greater than or equal to, both methods will work).
 
 ![View Event Inbox Records](/assets/images/2024-10-15/4.png)
 
@@ -42,7 +42,7 @@ SELECT TOP(1000) [DATA]
  ORDER BY INBOXID DESC
  ```
 
-If this is a production environment, or for some other reason you need to take more care with this data, you should make sure you have a backup before this point. If it is contoso demo and you don't care (like I didn't), you can delete all the offending records. If this isn't a contoso demo data issue, this will hopefully be 1 or 2 records which nobody will miss from the event inbox, as its only really a notification, and not a critical transaction for workflow. If it is the contoso issue, you may have a lot of records over the offending RecId, and need to delete all of them. 
+If for some reason you need to take some care with this data, you should make sure you have a backup before the next step. If it is contoso demo and you don't care (like I didn't), you can delete all the offending records. If this isn't a contoso demo data issue, it will hopefully be 1 or 2 records which nobody will miss from the event inbox, as its only really a notification, and not a critical transaction for workflow. If it is the contoso issue, you may have a lot of records over the offending RecId, and need to delete all of them. 
 
 ![Delete Event Inbox Records](/assets/images/2024-10-15/3.png)
 
@@ -50,7 +50,7 @@ If this is a production environment, or for some other reason you need to take m
 DELETE FROM [dbo].[EVENTINBOXDATA] WHERE INBOXID > -the-recid-before-your-rec-id-
 ```
 
-And thats it. The records which have used the RecID which workflow is trying to create in the Event inbox are deleted, and normal service can resume.
+And thats it. The records which have used the RecID which workflow is trying to create in the Event Inbox table are deleted, and normal workflow can resume.
 
 The final step is to head back to your workflow records in error, and click resume. 
 
