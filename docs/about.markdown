@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+![Anthony Blake](/assets/images/about/headshot.png){: .about-image}
 
 I am an experienced Software Developer, Technical Manager, and Technical Architect, who has been working in the Dynamics space since around 2010. 
 
@@ -20,8 +21,8 @@ Currently, I write about anything that interests me, from Dynamics 365 Finance u
 
 You can find me on socials at:
 - [X (Twitter)](https://x.com/anthonyblakedev)
-- [Github](https://github.com/anthonyblake)
-- [Linkedin](https://www.linkedin.com/in/anthonyblakedynamics/) 
+- [GitHub](https://github.com/anthonyblake)
+- [LinkedIn](https://www.linkedin.com/in/anthonyblakedynamics/) 
 
 I build this website using Jekyll, and it is hosted for free on github.com, for more info:
 [jekyll website][jekyll-organization]/

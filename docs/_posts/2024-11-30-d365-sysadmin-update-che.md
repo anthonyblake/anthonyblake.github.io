@@ -54,4 +54,4 @@ After a service or quality update, action is required to ensure the application 
 
 # Summary
 
-The new unified development experience will replace the need for cloud hosted enviornments for developers in the future, but while they are still in use on many projects, it's a really good idea to keep them up to date, and the most efficient and effective way to do that, is to provision replacements regularly. 
+The new unified development experience will replace the need for cloud hosted environments for developers in the future, but while they are still in use on many projects, it's a really good idea to keep them up to date, and the most efficient and effective way to do that, is to provision replacements regularly. 

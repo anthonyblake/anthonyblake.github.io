@@ -270,3 +270,15 @@
   //display:inline-block;
  }
 
+ .about-image {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  float: left;
+  vertical-align:middle;
+  clip-path: circle();
+  margin-right: 40px;
+  margin-bottom: 40px;
+  //display:inline-block;
+ }
+
