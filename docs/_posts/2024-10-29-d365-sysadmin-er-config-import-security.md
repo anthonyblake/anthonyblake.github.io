@@ -4,6 +4,8 @@ title:  "Dynamics 365 Finance: Import Electronic Reporting Configuration from Da
 date:   2024-10-29 16:30:00 +0000
 categories: d365 finance sysadmin
 tags: OData Axapta Integration Dynaimcs AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Finance Dyn365 Dyn365FO SysAdmin D365 D365FSCM F&SCM System Admin SysAdmin ER Electronic Reporting Config Dataverse
+image: /assets/images/featured/featured-paperwork-1.jpg
+author: "Anthony Blake"
 ---
 
 ## Overview
