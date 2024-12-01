@@ -48,6 +48,10 @@ plugins:
 # Google Analytics
 google_analytics: G-WDNGNSHVR7
 
+# CSS rednering issue
+baseurl: /
+url: http://anthonyblake.github.io
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
