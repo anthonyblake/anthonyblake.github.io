@@ -12,7 +12,7 @@ author: "Anthony Blake"
 
 I have created a couple of PowerShell scripts to iterate a folder of D365 Finance and Operations developer XML task recordings, parse the XML for the test steps, and upload to an Azure DevOps project as new work items with the type Test Case. 
 
-This is useful if you need to avoid using LCS, but want some automation in the creation of your Test Cases in Azure DevOps. This may be becuase you are using a BPM library not in LCS, or you may be using Power Platform to deploy your D365 environments rather than LCS, or even preparing for the near future where LCS will be deprecated.
+This is useful if you need to avoid using LCS, but want some automation in the creation of your Test Cases in Azure DevOps. This may be because you are using a BPM library not in LCS, or you may be using Power Platform to deploy your D365 environments rather than LCS, or even preparing for the near future where LCS will be deprecated.
 
 The scripts are hosted on GitHub here: [https://github.com/anthonyblake/PSD365TestCaseUploader](https://github.com/anthonyblake/PSD365TestCaseUploader)
 
