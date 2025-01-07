@@ -28,7 +28,7 @@ Under the tab _All_, search for _Invoice capture_
 
 ![Feature management workspace](/assets/images/2025-01-06/2.png)
 
-**Ensure Finance and Operation Vitural Entity is Installed**
+**Ensure Finance and Operation Virtual Entity is Installed**
 
 From the Power Platform admin centre, under Environments, open detailed view.
 
