@@ -63,7 +63,7 @@ Clicking Free Trial redirects you back to the Power Platform Admin Center, where
 
 ![Invoice Capture Install Environments](/assets/images/2025-01-06/7.png)
 
-The Invoice Capture app will be installing on the selected enviornment for a few minutes.
+The Invoice Capture app will be installing on the selected environment for a few minutes.
 
 ![Invoice Capture Installing](/assets/images/2025-01-06/8.png)
 
