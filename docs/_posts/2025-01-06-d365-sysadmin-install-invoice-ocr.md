@@ -12,7 +12,7 @@ author: "Anthony Blake"
 
 I have recently deployed the Invoice Capture OCR app to a number of different environments and for a number of different projects, and in the process have documented the simplified steps required with screenshots, which I use ahead of the official documentation. 
 
-This guide is a quick step-by-step to deploy Invoice Capture OCR based on my notes, and is a supplment to the main installation documentation which can be found here: [Install Invoice Capture](https://learn.microsoft.com/en-us/dynamics365/finance/accounts-payable/install-invoice-capture)
+This guide is a quick step-by-step to deploy Invoice Capture OCR based on my notes, and is a supplement to the main installation documentation which can be found here: [Install Invoice Capture](https://learn.microsoft.com/en-us/dynamics365/finance/accounts-payable/install-invoice-capture)
 
 ## Prerequisites
 
@@ -22,13 +22,13 @@ This guide is a quick step-by-step to deploy Invoice Capture OCR based on my not
 
 **Ensure Invoice Capture Feature is Enabled**
 
-The feature _Invoice capture for Dynamics 365 Finance_ is on by default, so it is unlikley you will need to enable it. To check, in D365 Finance, head to the Feature Management workspace, at _Workspaces->Feature management_
+The feature _Invoice capture for Dynamics 365 Finance_ is on by default, so it is unlikely you will need to enable it. To check, in D365 Finance, head to the Feature Management workspace, at _Workspaces->Feature management_
 
 Under the tab _All_, search for _Invoice capture_
 
 ![Feature management workspace](/assets/images/2025-01-06/2.png)
 
-**Ensure Finance and Operation Vitural Entity is Installed**
+**Ensure Finance and Operation Virtual Entity is Installed**
 
 From the Power Platform admin centre, under Environments, open detailed view.
 
@@ -63,7 +63,7 @@ Clicking Free Trial redirects you back to the Power Platform Admin Center, where
 
 ![Invoice Capture Install Environments](/assets/images/2025-01-06/7.png)
 
-The Invoice Capture app will be installing on the selected enviornment for a few minutes.
+The Invoice Capture app will be installing on the selected environment for a few minutes.
 
 ![Invoice Capture Installing](/assets/images/2025-01-06/8.png)
 
