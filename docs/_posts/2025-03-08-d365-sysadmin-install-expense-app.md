@@ -78,7 +78,7 @@ Wait for the app to install. This step can take quite a long time, so its a good
 
 ![Installing](/assets/images/2025-03-08/11.png)
 
-![MEME](/assets/images/2025-03-08/14.png)
+![MEME](/assets/images/2025-03-08/15.png)
 
 After drinking your tea, the install should be complete:
 
