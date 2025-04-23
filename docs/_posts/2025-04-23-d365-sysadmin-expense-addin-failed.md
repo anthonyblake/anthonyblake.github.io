@@ -10,7 +10,7 @@ author: "Anthony Blake"
 
 ## Overview
 
-When installing the Expense Management Add-In on your Dynamics 365 F&O Environment in LCS, you may encounter a failure, with the only information available being the Installation Failed error message. This is more common on newly provisioned environments, but can happen on any envrionment. 
+When installing the Expense Management Add-In on your Dynamics 365 F&O Environment in LCS, you may encounter a failure, with the only information available being the Installation Failed error message. This is more common on newly provisioned environments, but can happen on any environment. 
 
 You click install new add-in:
 
