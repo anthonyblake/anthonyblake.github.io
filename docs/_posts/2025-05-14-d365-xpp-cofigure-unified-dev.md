@@ -24,7 +24,7 @@ These steps are my own, though they were derived from from these references:
 
 - The user you intend to use to connect from Visual Studio needs to have the System Administrator Role in both the Power Platform and the F&O environment. At time of writing, this still needs to be done separately.
 
-- You need to have provisioned a Power Platform environment using one of the ERP templates. This can be done from the Admin Center, but if you are familiar with Powershell, it's even easier. I will share information for this when I have more notes, for now follow the official steps here, it's pretty straighforward: [utorial: Provision a new environment with an ERP-based template](https://learn.microsoft.com/en-us/power-platform/admin/unified-experience/tutorial-deploy-new-environment-with-erp-template?tabs=new)
+- You need to have provisioned a Power Platform environment using one of the ERP templates. This can be done from the Admin Center, but if you are familiar with Powershell, it's even easier. I will share information for this when I have more notes, for now follow the official steps here, it's pretty straightforward: [utorial: Provision a new environment with an ERP-based template](https://learn.microsoft.com/en-us/power-platform/admin/unified-experience/tutorial-deploy-new-environment-with-erp-template?tabs=new)
  
 ## Steps
 
