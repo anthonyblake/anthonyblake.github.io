@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep:*)",
+      "Bash(dir:*)",
+      "Bash(git mv:*)",
+      "Bash(if not exist \"c:\\\\Source\\\\Projects\\\\Websites\\\\anthonyblake.github.io\\\\scripts\" mkdir \"c:\\\\Source\\\\Projects\\\\Websites\\\\anthonyblake.github.io\\\\scripts\")",
+      "Bash(powershell:*)",
+      "Bash(bundle exec jekyll build:*)"
+    ]
+  }
+}
