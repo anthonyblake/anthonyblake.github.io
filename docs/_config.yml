@@ -43,11 +43,6 @@ theme: minima
 
 plugins:
   - jekyll-feed
-  - jekyll-paginate
-
-# Pagination
-paginate: 10
-paginate_path: "/page:num/"
 #  - jekyll-remote-theme
 
 # Google Analytics
