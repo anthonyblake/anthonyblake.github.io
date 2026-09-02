@@ -17,7 +17,7 @@ The two types of Power Platform environment relevant to F&O are Sandbox and Prod
 - Unified Sandbox Environment (USE)
 - Unified Production Environment (UPE)
 
--diagram
+![Environments](/assets/images/2026-09-02/1.png)
 
 ## Unified Dev Environment (UDE)
 - UDEs are Power Platform environments deployed with a provisioned F&O environment instance, and the F&O development tools. 
