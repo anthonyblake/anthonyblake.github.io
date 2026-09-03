@@ -30,7 +30,7 @@ The two types of Power Platform environment relevant to F&O are Sandbox and Prod
 - UDEs cannot be copied to USEs or UPEs. Keep this in mind for your ALM strategy. Golden config, data migration, or any other environment which will need to be copied to other USEs during test phases cannot originate on a UDE, data must originate on a USE.
 - A UDE to USE environment copy will complete and appear successful, but F&O will not be affected. 
 
-## Unified Sandbox Environment (USE) and Universal Sandbox Environment (UPE)
+## Unified Sandbox Environment (USE) and Universal Production Environment (UPE)
 - USEs are Power Platform environments deployed with a provisioned F&O environment instance, without the provision of the F&O development tools at deploy time.
 - USEs are deployed with multiple AOS and Batch servers.
 - USEs do not allow package deployment and debugging from Visual Studio.
