@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "D365 F&O: Managing Unified Environment Maintenance Windows with the PAC CLI"
+title:  "D365 F&O: Managing Unified Environment Maintenance Settings with the PAC CLI"
 date:   2026-10-17 19:30:00 +0000
 categories: d365 finance sysadmin
 tags: Integration Dynamics AAD DynamicsAx D365FO FinOpsDevOps MSDyn365FO AXCommunityBlog D365 Dynamics365 MSDAX X++ DAX MSDyn365 Finance Dyn365 Dyn365FO SysAdmin D365 D365FSCM F&SCM System Admin SysAdmin Azure PPAC xpp xppgroupies unified developer unidev UDE PAC PowerPlatformCLI
