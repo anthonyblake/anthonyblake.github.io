@@ -3,7 +3,7 @@ layout: post
 title:  "Dynamics 365 Finance and Operations: Non-Azure AD external user deprecation report"
 date:   2024-03-11 08:00:00 +0000
 categories: d365 finance sysadmin
-tags: Axapta Integration Dynaimcs AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO SysAdmin D365 AAD Azure Active Directory
+tags: Axapta Integration Dynamics AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO SysAdmin D365 AAD Azure Active Directory
 ---
 
 Previously, I looked at the upcoming restriction on users who are not present in the same tenant D365 Finance and Operations Entra ID (AAD), and specifically how the restriction may affect integrations: 

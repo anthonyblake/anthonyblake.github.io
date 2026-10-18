@@ -3,7 +3,7 @@ layout: post
 title:  "Dynamics 365 F&O Apps: Regularly Replace your Cloud Hosted Dev/Build Environments"
 date:   2024-11-30 10:30:00 +0000
 categories: d365 finance sysadmin
-tags: OData Axapta Integration Dynaimcs AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Finance Dyn365 Dyn365FO SysAdmin D365 D365FSCM F&SCM System Admin SysAdmin ER Electronic Reporting Config Dataverse
+tags: OData Axapta Integration Dynamics AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Finance Dyn365 Dyn365FO SysAdmin D365 D365FSCM F&SCM System Admin SysAdmin ER Electronic Reporting Config Dataverse
 image: /assets/images/featured/featured-scrap-1.jpg 
 author: "Anthony Blake"
 ---

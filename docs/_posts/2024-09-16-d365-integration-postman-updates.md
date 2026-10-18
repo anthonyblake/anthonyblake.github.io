@@ -3,7 +3,7 @@ layout: post
 title:  "Dynamics 365 F&O: Import & Export Package APIs Added"
 date:   2024-09-16 18:15:00 +0000
 categories: d365 finance integrations
-tags: OData Axapta Integration Dynaimcs AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO SysAdmin D365 AAD Azure Active Directory DMF Postman
+tags: OData Axapta Integration Dynamics AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO SysAdmin D365 AAD Azure Active Directory DMF Postman
 ---
 
 There have been 2 significant additions to the Dynamics 365 Finance APIs Workspace this week, and 1 modification. The additions are the first import and export examples in the Package Rest API collection, which give a working example of how to call the APIs from Postman, and therefore from any integrating application. (Dont forget to try out Postman's code generation functionality). 

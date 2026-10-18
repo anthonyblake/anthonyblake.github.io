@@ -3,7 +3,7 @@ layout: post
 title:  "D365 F&O Postman Workspace Additions September 2025"
 date:   2025-09-02 09:15:00 +0000
 categories: d365 finance integrations
-tags: OData Axapta Integration Dynaimcs AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO SysAdmin D365 AAD Azure Active Directory DMF Postman
+tags: OData Axapta Integration Dynamics AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO SysAdmin D365 AAD Azure Active Directory DMF Postman
 ---
 
 I have added 4 new & tested examples to the OData section of the Dyanamics 365 Finance APIs Postman Workspace. 

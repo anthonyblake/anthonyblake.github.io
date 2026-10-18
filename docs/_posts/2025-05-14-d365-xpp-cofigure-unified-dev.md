@@ -3,7 +3,7 @@ layout: post
 title:  "Dynamics 365 F&O: Configure Visual Studio for Unified Development"
 date:   2025-08-16 07:30:00 +0000
 categories: d365 finance xpp
-tags: Integration Dynaimcs AAD DynamicsAx D365FO FinOpsDevOps MSDyn365FO AXCommunityBlog D365 Dynamics365 MSDAX X++ DAX MSDyn365 Finance Dyn365 Dyn365FO SysAdmin D365 D365FSCM F&SCM System Admin SysAdmin Azure PPAC xpp xppgroupies unified developer unidev UDE
+tags: Integration Dynamics AAD DynamicsAx D365FO FinOpsDevOps MSDyn365FO AXCommunityBlog D365 Dynamics365 MSDAX X++ DAX MSDyn365 Finance Dyn365 Dyn365FO SysAdmin D365 D365FSCM F&SCM System Admin SysAdmin Azure PPAC xpp xppgroupies unified developer unidev UDE
 image: /assets/images/featured/featured-desk-1.jpg 
 author: "Anthony Blake"
 ---

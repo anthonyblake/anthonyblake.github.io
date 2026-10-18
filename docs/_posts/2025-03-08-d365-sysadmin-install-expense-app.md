@@ -3,7 +3,7 @@ layout: post
 title:  "Dynamics 365 F&O Apps: Install the Expense Management Power App"
 date:   2025-03-08 07:30:00 +0000
 categories: d365 finance sysadmin
-tags: Integration Dynaimcs AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Finance Dyn365 Dyn365FO SysAdmin D365 D365FSCM F&SCM System Admin SysAdmin Vendor Supplier Expense Management Power App Dataverse
+tags: Integration Dynamics AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Finance Dyn365 Dyn365FO SysAdmin D365 D365FSCM F&SCM System Admin SysAdmin Vendor Supplier Expense Management Power App Dataverse
 image: /assets/images/featured/featured-calculator-1.jpg 
 author: "Anthony Blake"
 ---

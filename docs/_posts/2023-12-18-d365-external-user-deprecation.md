@@ -3,7 +3,7 @@ layout: post
 title:  "Dynamics 365 Finance and Operations: Non-Azure AD external user sign-in Deprecation March 2024"
 date:   2023-12-18 15:19:00 +0000
 categories: d365 finance sysadmin
-tags: Axapta Integration Dynaimcs AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO
+tags: Axapta Integration Dynamics AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO
 ---
 
 From March 2024, Microsoft will begin restricting access to users of Dynamics 365 Finance and Operations to only allow users which exist in the same Azure Active Directory tenant. This is billed as having an impact on 3rd party tenant accounts which are not b2b onboarded, however there is a potential integration impact which I will cover later.

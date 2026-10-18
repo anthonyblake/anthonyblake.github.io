@@ -3,7 +3,7 @@ layout: post
 title:  "Dynamics 365 F&O: Gain Database Access on a Tier 2 Environment (LCS)"
 date:   2024-10-04 18:15:00 +0000
 categories: d365 finance sysadmin
-tags: OData Axapta Integration Dynaimcs AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO SysAdmin D365 AAD Azure Active Directory DMF Postman System Admin SysAdmin
+tags: OData Axapta Integration Dynamics AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO SysAdmin D365 AAD Azure Active Directory DMF Postman System Admin SysAdmin
 ---
 
 I recently encountered an issue which was blocking workflow, causing all workflows to enter an error state on assignement. The solution required the deletion of some records from the Contoso database on a tier 2 environment. 

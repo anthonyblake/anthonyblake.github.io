@@ -3,7 +3,7 @@ layout: post
 title:  "Azure DevOps Build & Release Pipeline for Dyn365FO - Create Deployable Package Task"
 date:   2019-09-08 08:55:00 +0000
 categories: d365 finance alm
-tags: Axapta Integration Dynaimcs AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO ALM Azure DvOps
+tags: Axapta Integration Dynamics AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO ALM Azure DvOps
 ---
 
 # Background

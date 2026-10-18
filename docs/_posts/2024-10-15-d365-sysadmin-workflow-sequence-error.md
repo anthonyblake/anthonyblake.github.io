@@ -3,7 +3,7 @@ layout: post
 title:  "Dynamics 365 F&O: Stopped (error) x++ Exception: cannot create a record in Alerts - Event inbox data (EventInboxData)"
 date:   2024-10-15 16:30:00 +0000
 categories: d365 finance sysadmin
-tags: OData Axapta Integration Dynaimcs AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO SysAdmin D365 AAD Azure Active Directory DMF Postman System Admin SysAdmin Workflow
+tags: OData Axapta Integration Dynamics AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO SysAdmin D365 AAD Azure Active Directory DMF Postman System Admin SysAdmin Workflow
 ---
 
 # Workflow Error!

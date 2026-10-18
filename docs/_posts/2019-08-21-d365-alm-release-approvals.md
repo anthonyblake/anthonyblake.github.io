@@ -3,7 +3,7 @@ layout: post
 title:  "Azure DevOps Release Pipeline for Dyn365FO - Part 2: Scheduled Releases with Approvals"
 date:   2019-08-21 07:31:00 +0000
 categories: d365 finance alm
-tags: Axapta Integration Dynaimcs AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO ALM Azure DvOps
+tags: Axapta Integration Dynamics AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO ALM Azure DvOps
 ---
 
 This post follows on from Part 1, which covered;

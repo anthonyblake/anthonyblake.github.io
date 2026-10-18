@@ -3,7 +3,7 @@ layout: post
 title:  "Dynamics 365 F&O: Configure an environment to send email via the Graph API"
 date:   2025-05-14 07:30:00 +0000
 categories: d365 finance sysadmin
-tags: Integration Dynaimcs AAD DynamicsAx D365FO FinOpsDevOps MSDyn365FO AXCommunityBlog D365 Dynamics365 MSDAX X++ DAX MSDyn365 Finance Dyn365 Dyn365FO SysAdmin D365 D365FSCM F&SCM System Admin SysAdmin Azure App Registration Client Secret Graph email
+tags: Integration Dynamics AAD DynamicsAx D365FO FinOpsDevOps MSDyn365FO AXCommunityBlog D365 Dynamics365 MSDAX X++ DAX MSDyn365 Finance Dyn365 Dyn365FO SysAdmin D365 D365FSCM F&SCM System Admin SysAdmin Azure App Registration Client Secret Graph email
 image: /assets/images/featured/featured-email-1.jpg 
 author: "Anthony Blake"
 ---

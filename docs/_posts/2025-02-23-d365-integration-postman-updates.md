@@ -3,7 +3,7 @@ layout: post
 title:  "Dynamics 365 F&O Apps: Public Postman Workspace Updates 23rd February 2025"
 date:   2025-02-23 19:30:00 +0000
 categories: d365 finance integrations
-tags: OData Axapta Integration Dynaimcs AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO SysAdmin D365 AAD Azure Active Directory DMF Postman
+tags: OData Axapta Integration Dynamics AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO SysAdmin D365 AAD Azure Active Directory DMF Postman
 image: /assets/images/featured/featured-jigsaw-1.jpg
 author: "Anthony Blake"
 ---

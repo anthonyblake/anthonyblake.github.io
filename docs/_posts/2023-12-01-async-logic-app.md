@@ -3,7 +3,7 @@ layout: post
 title:  "Azure Logic Apps (Consumption): Create an Asynchronous API for Long Running Operations"
 date:   2023-12-01 22:31:00 +0000
 categories: azure logicapps
-tags: Axapta Azure Dynaimcs DynamicsAx D365FO FinOpsDevOps MSDyn365FO AXCommunityBlog D365 Dynamics365 MSDAX X++ DAX MSDyn365 Dyn365 Logic Dyn365FO LogicApps
+tags: Axapta Azure Dynamics DynamicsAx D365FO FinOpsDevOps MSDyn365FO AXCommunityBlog D365 Dynamics365 MSDAX X++ DAX MSDyn365 Dyn365 Logic Dyn365FO LogicApps
 ---
 
 ![Azure LogicApp Header](/assets/images/2023-12-01/azure-logicapps-httpconsumption-header.jpg)

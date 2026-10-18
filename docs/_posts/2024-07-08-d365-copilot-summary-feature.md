@@ -3,7 +3,7 @@ layout: post
 title:  "D365 Finance 10.0.40: Copilot Summary in Latest Platform Update is On By Default"
 date:   2024-07-08 19:30:00 +0000
 categories: d365 finance copilot
-tags: Copilot API OData Axapta Integration Dynaimcs AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO SysAdmin D365 AAD Azure Active Directory DMF Postman
+tags: Copilot API OData Axapta Integration Dynamics AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO SysAdmin D365 AAD Azure Active Directory DMF Postman
 ---
 
 ![On by Default D365 Feature Management](/assets/images/2024-07-08/3.png)

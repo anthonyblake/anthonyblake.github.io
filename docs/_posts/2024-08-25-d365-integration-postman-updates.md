@@ -3,7 +3,7 @@ layout: post
 title:  "Dynamics 365 Finance and Operations: Create System Users and Advanced Customer Query Variation"
 date:   2024-08-25 10:15:00 +0000
 categories: d365 finance integrations
-tags: OData Axapta Integration Dynaimcs AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO SysAdmin D365 AAD Azure Active Directory DMF Postman
+tags: OData Axapta Integration Dynamics AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO SysAdmin D365 AAD Azure Active Directory DMF Postman
 ---
 
 There have been two additions to the D365 Finance OData workspace since my last post. The first is the addition of a POST example which creates a new user in System Administration -> Users. The second addition is a variation of the previous CustomersV3 queries using GET, which uses field lists, is cross company, and specifies the companies/legal entities to include in the returned dataset. 

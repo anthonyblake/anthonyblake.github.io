@@ -3,7 +3,7 @@ layout: post
 title:  "Azure DevOps for Dyn365FO Create Deployable Package - Include Source Controlled ISV Binaries"
 date:   2019-11-03 08:30:00 +0000
 categories: d365 finance alm
-tags: Axapta Integration Dynaimcs AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO ALM Azure DvOps
+tags: Axapta Integration Dynamics AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO ALM Azure DvOps
 ---
 
 ![Create Deployable Package Output](/assets/images/2019-11-03/CreateDeployablePackageOutput.jpg)

@@ -3,7 +3,7 @@ layout: post
 title:  "Dynamics 365 F&O Apps: Automatically Create Azure DevOps Test Cases without LCS"
 date:   2024-12-13 07:30:00 +0000
 categories: d365 finance sysadmin
-tags: OData Axapta Integration Dynaimcs AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Finance Dyn365 Dyn365FO SysAdmin D365 D365FSCM F&SCM System Admin SysAdmin Azure DevOps PowerShell PS ps1 Dataverse
+tags: OData Axapta Integration Dynamics AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Finance Dyn365 Dyn365FO SysAdmin D365 D365FSCM F&SCM System Admin SysAdmin Azure DevOps PowerShell PS ps1 Dataverse
 image: /assets/images/featured/featured-library-1.jpg 
 author: "Anthony Blake"
 ---

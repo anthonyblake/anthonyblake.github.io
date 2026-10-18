@@ -3,7 +3,7 @@ layout: post
 title:  "Azure DevOps Release Pipeline for Dyn365FO - Part 1: Automated Package Upload & Deploy via LCS API"
 date:   2019-08-15 07:56:00 +0000
 categories: d365 finance alm
-tags: Axapta Integration Dynaimcs AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO ALM Azure DvOps
+tags: Axapta Integration Dynamics AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO ALM Azure DvOps
 ---
 
 Part 1 of this series of Release Pipeline posts covers how to implement the LCS API for uploading and deploying a package from an Azure DevOps build, built for Dynamics 365 for Finance and Operations.

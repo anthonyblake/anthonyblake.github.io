@@ -3,7 +3,7 @@ layout: post
 title:  "Azure DevOps Build & Release Pipeline for Dyn365FO - Add Licenses to Deployable Package Task"
 date:   2019-10-03 08:45:00 +0000
 categories: d365 finance alm
-tags: Axapta Integration Dynaimcs AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO ALM Azure DvOps
+tags: Axapta Integration Dynamics AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO ALM Azure DvOps
 ---
 
 ![Add Licenses to Deployable Package Task](/assets/images/2019-10-03/LicenseAddOutput.jpg)

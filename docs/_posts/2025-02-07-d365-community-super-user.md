@@ -3,7 +3,7 @@ layout: post
 title:  "Dynamics 365 Community Super User 2025 Season 1"
 date:   2025-02-07 07:30:00 +0000
 categories: d365 community 
-tags: Axapta Dynaimcs DynamicsAx D365FO FinOpsDevOps MSDyn365FO AXCommunityBlog D365 Dynamics365 MSDAX X++ DAX MSDyn365 Finance Dyn365 Dyn365FO D365FSCM F&SCM Community Super User 2025 Season 1 Season 2
+tags: Axapta Dynamics DynamicsAx D365FO FinOpsDevOps MSDyn365FO AXCommunityBlog D365 Dynamics365 MSDAX X++ DAX MSDyn365 Finance Dyn365 Dyn365FO D365FSCM F&SCM Community Super User 2025 Season 1 Season 2
 image: /assets/images/featured/featured-super-user-2025-s1.png
 author: "Anthony Blake"
 ---

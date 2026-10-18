@@ -3,7 +3,7 @@ layout: post
 title:  "D365 F&O: Apply a Service Update to a Unified Environment"
 date:   2026-02-16 19:30:00 +0000
 categories: d365 finance sysadmin
-tags: Integration Dynaimcs AAD DynamicsAx D365FO FinOpsDevOps MSDyn365FO AXCommunityBlog D365 Dynamics365 MSDAX X++ DAX MSDyn365 Finance Dyn365 Dyn365FO SysAdmin D365 D365FSCM F&SCM System Admin SysAdmin Azure PPAC xpp xppgroupies unified developer unidev UDE
+tags: Integration Dynamics AAD DynamicsAx D365FO FinOpsDevOps MSDyn365FO AXCommunityBlog D365 Dynamics365 MSDAX X++ DAX MSDyn365 Finance Dyn365 Dyn365FO SysAdmin D365 D365FSCM F&SCM System Admin SysAdmin Azure PPAC xpp xppgroupies unified developer unidev UDE
 image: /assets/images/featured/featured-desk-1.jpg 
 author: "Anthony Blake"
 ---

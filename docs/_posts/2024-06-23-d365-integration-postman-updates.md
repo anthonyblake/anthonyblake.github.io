@@ -3,7 +3,7 @@ layout: post
 title:  "Dynamics 365 Finance and Operations: Trigger Refresh Data Entities From Postman"
 date:   2024-06-23 12:30:00 +0000
 categories: d365 finance integrations
-tags: OData Axapta Integration Dynaimcs AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO SysAdmin D365 AAD Azure Active Directory DMF Postman
+tags: OData Axapta Integration Dynamics AAD DynamicsAx D365FO FinOpsDevOps App registration MSDyn365FO AXCommunityBlog EntraID D365 Dynamics365 MSDAX X++ DAX MSDyn365 Entra Dyn365 Dyn365FO SysAdmin D365 AAD Azure Active Directory DMF Postman
 ---
 
 A recent community forum question regarding triggering a DMF data entity refresh from Power Automate led me to doing some research and finding that there is an out-of-the box OData action to trigger the update or Entities in DMF. I've added the call to the D365 Finance APIs Postman workspace under the OData collection in a new folder "Actions":
